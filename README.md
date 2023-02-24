@@ -1,7 +1,3 @@
-# Hi, I'm Mike Hollender
-##A Cloud/DevOps Engineer based in Pennsylvania(United States)
-
-
 <h1 align="center">Hi 👋, I'm Mike Hollender</h1>
 <h3 align="center">A Cloud/DevOps Engineer based in Pennsylvania(United States)</h3>
 <img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
